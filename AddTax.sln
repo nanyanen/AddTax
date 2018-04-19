@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTax", "AddTax\AddTax.csproj", "{8E4F304D-9A66-48E7-AD7D-A56F3E629C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4F304D-9A66-48E7-AD7D-A56F3E629C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4F304D-9A66-48E7-AD7D-A56F3E629C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4F304D-9A66-48E7-AD7D-A56F3E629C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4F304D-9A66-48E7-AD7D-A56F3E629C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA907D75-CDF2-4831-BD2D-CA9FC34EAFFF}
+	EndGlobalSection
+EndGlobal
